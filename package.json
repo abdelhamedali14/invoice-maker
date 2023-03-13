@@ -1,7 +1,7 @@
 {
   "name": "sana-soft-task",
   "version": "0.1.0",
-  "homepage": "https://abdelhamedali14.github.io/invoice-maker.git",
+  "homepage": "https://abdelhamedali14.github.io/invoice-maker",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
